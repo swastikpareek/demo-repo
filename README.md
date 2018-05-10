@@ -1,4 +1,6 @@
 # demo-repo
-Basic Demo for learning purpose
+
+Basic code for demo purpose.
 
 Hansa Pandit
+
